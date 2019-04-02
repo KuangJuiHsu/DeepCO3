@@ -1,15 +1,13 @@
 # Codes for DeepCO3 (To Be Constructed)
 
-Contact: [Kuang-Jui Hsu](https://www.citi.sinica.edu.tw/pages/kjhsu/)
+- Contact: [Kuang-Jui Hsu](https://www.citi.sinica.edu.tw/pages/kjhsu/)
 
-Last update: 2019/04/02
+- Last update: 2019/04/02
 
-Platform: Ubuntu 14.04, [MatConvnet 1.0-beta24](http://www.vlfeat.org/matconvnet/) (We don's support any installation problem of MatConvnet.)
+- Platform: Ubuntu 14.04, [MatConvnet 1.0-beta24](http://www.vlfeat.org/matconvnet/) (We don's support any installation problem of MatConvnet.)
 
----
-
-# Paper: [CVPR19] DeepCO3: Deep Instance Co-segmentation by Co-peak Search and Co-saliency
-## Authors: [Kuang-Jui Hsu](https://www.citi.sinica.edu.tw/pages/kjhsu/), [Yen-Yu Lin](https://www.citi.sinica.edu.tw/pages/yylin/index_zh.html), [Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/)
+## Paper: [CVPR19] DeepCO3: Deep Instance Co-segmentation by Co-peak Search and Co-saliency
+### Authors: [Kuang-Jui Hsu](https://www.citi.sinica.edu.tw/pages/kjhsu/), [Yen-Yu Lin](https://www.citi.sinica.edu.tw/pages/yylin/index_zh.html), [Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/)
 
 + PDF: [Link1](http://cvlab.citi.sinica.edu.tw/publications), [Link2](https://www.csie.ntu.edu.tw/~cyy/publications/index.html)
 + Supplementary material: [Link1](http://cvlab.citi.sinica.edu.tw/publications), [Link2](https://www.csie.ntu.edu.tw/~cyy/publications/index.html)
@@ -30,6 +28,8 @@ Platform: Ubuntu 14.04, [MatConvnet 1.0-beta24](http://www.vlfeat.org/matconvnet
 + The results can be reproduced. 
 
 ## Datasets (about 34 GB):
-- Include the images, ground-truth masks, salinecy maps and object proposals
+- Including the images, ground-truth masks, salinecy maps and object proposals
 - [GoogleDrive](https://www.citi.sinica.edu.tw/pages/kjhsu/)
 
+## Results (To be updated):
+- [GoogleDrive](https://www.citi.sinica.edu.tw/pages/kjhsu/)
