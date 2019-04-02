@@ -27,7 +27,6 @@
 ---
 
 ## Demo for all stages: "RunDeepInstCoseg.m"
-+ The results can be reproduced. 
 + The "mex" files are included.
 + The results are slightly different from the papers because of the randdom seeds.
 
@@ -35,7 +34,7 @@
 - Including the images, ground-truth masks, salinecy maps and object proposals
 - [GoogleDrive](https://drive.google.com/file/d/1fiEiyPyU5hcIrGT9HDlAyZ8lgq9x1eJS/view?usp=sharing)
 
-## Results (To be updated):
+## Results reported in the papers (To be updated):
 - [GoogleDrive](https://www.citi.sinica.edu.tw/pages/kjhsu/)
 
 ## Download Codes from GoogleDrive :
