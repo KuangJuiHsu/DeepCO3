@@ -26,6 +26,7 @@
 
 ## Demo for all stages: "RunDeepInstCoseg.m"
 + The results can be reproduced. 
++ The "mex" files are included.
 
 ## Datasets (about 34 GB):
 - Including the images, ground-truth masks, salinecy maps and object proposals
