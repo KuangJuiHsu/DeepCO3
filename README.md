@@ -28,7 +28,7 @@
 
 ## Demo for all stages: "RunDeepInstCoseg.m"
 + The "mex" files are included.
-+ The results are slightly different from the papers because of the randdom seeds.
++ The results may be slightly different from the papers because of the randdom seeds.
 
 ## Datasets (about 34 GB):
 - Including the images, ground-truth masks, salinecy maps and object proposals
