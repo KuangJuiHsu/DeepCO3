@@ -32,7 +32,7 @@
 
 ## Datasets (about 34 GB):
 - Including the images, ground-truth masks, salinecy maps and object proposals
-- [GoogleDrive](https://github.com/KuangJuiHsu/DeepCO3)
+- [GoogleDrive](https://drive.google.com/file/d/1IDyC8NXQdOZEaji6GKQZbh9uZ5B2r_79/view?usp=sharing)
 
 ## Results reported in the papers (about 4 GB):
 - [GoogleDrive](https://drive.google.com/file/d/1sMr11hbmc6w3GZAOKy5pbEZxyHBJtb8z/view?usp=sharing)
