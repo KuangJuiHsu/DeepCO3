@@ -3,8 +3,8 @@
 
 <img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Images/CVPR19.PNG" height="400"/>
 
-+ PDF: [Link1](https://github.com/KuangJuiHsu/DeepCO3), [Link2](https://github.com/KuangJuiHsu/DeepCO3)
-+ Supplementary material: [Link1](https://github.com/KuangJuiHsu/DeepCO3), [Link2](https://github.com/KuangJuiHsu/DeepCO3)
++ PDF (to be updated): [Link1](https://github.com/KuangJuiHsu/DeepCO3), [Link2](https://github.com/KuangJuiHsu/DeepCO3)
++ Supplementary material (to be updated): [Link1](https://github.com/KuangJuiHsu/DeepCO3), [Link2](https://github.com/KuangJuiHsu/DeepCO3)
 
 <p>Please cite our paper if this code is useful for your research.</p>
 <pre><code>
