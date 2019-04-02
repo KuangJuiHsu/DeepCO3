@@ -11,8 +11,8 @@
 
 <img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Images/CVPR19.PNG" height="400"/>
 
-+ PDF: [Link1](http://cvlab.citi.sinica.edu.tw/publications), [Link2](https://www.csie.ntu.edu.tw/~cyy/publications/index.html)
-+ Supplementary material: [Link1](http://cvlab.citi.sinica.edu.tw/publications), [Link2](https://www.csie.ntu.edu.tw/~cyy/publications/index.html)
++ PDF: [Link1](https://github.com/KuangJuiHsu/DeepCO3), [Link2](https://github.com/KuangJuiHsu/DeepCO3)
++ Supplementary material: [Link1](https://github.com/KuangJuiHsu/DeepCO3), [Link2](https://github.com/KuangJuiHsu/DeepCO3)
 
 <p>Please cite our paper if this code is useful for your research.</p>
 <pre><code>
@@ -32,10 +32,10 @@
 
 ## Datasets (about 34 GB):
 - Including the images, ground-truth masks, salinecy maps and object proposals
-- [GoogleDrive](https://drive.google.com/file/d/1fiEiyPyU5hcIrGT9HDlAyZ8lgq9x1eJS/view?usp=sharing)
+- [GoogleDrive](https://github.com/KuangJuiHsu/DeepCO3)
 
-## Results reported in the papers (To be updated):
-- [GoogleDrive](https://www.citi.sinica.edu.tw/pages/kjhsu/)
+## Results reported in the papers (about 4 GB):
+- [GoogleDrive](https://drive.google.com/file/d/1sMr11hbmc6w3GZAOKy5pbEZxyHBJtb8z/view?usp=sharing)
 
 ## Download Codes from GoogleDrive :
-- [GoogleDrive](https://drive.google.com/file/d/1v1n5vvmYuNPtHckGNx-RYWufZnpKgXru/view?usp=sharing)
+- [GoogleDrive](https://drive.google.com/file/d/1NnEVkrrrYyi5oNRKuIlQ6dkdupC5kHbB/view?usp=sharing)
