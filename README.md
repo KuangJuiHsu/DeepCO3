@@ -1,12 +1,4 @@
-# Codes for DeepCO<sup>3</sup> (To Be Constructed)
-
-- Contact: [Kuang-Jui Hsu](https://www.citi.sinica.edu.tw/pages/kjhsu/)
-
-- Last update: 2019/04/02
-
-- Platform: Ubuntu 14.04, [MatConvnet 1.0-beta24](http://www.vlfeat.org/matconvnet/) (We don's support any installation problem of MatConvnet.)
-
-## Paper: [CVPR19] DeepCO<sup>3</sup>: Deep Instance Co-segmentation by Co-peak Search and Co-saliency
+# Paper: [CVPR19] DeepCO<sup>3</sup>: Deep Instance Co-segmentation by Co-peak Search and Co-saliency
 ### Authors: [Kuang-Jui Hsu](https://www.citi.sinica.edu.tw/pages/kjhsu/), [Yen-Yu Lin](https://www.citi.sinica.edu.tw/pages/yylin/index_en.html), [Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/)
 
 <img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Images/CVPR19.PNG" height="400"/>
@@ -25,6 +17,15 @@
 </code></pre>
 
 ---
+
+# Codes for DeepCO<sup>3</sup> (To Be Constructed)
+
+- Contact: [Kuang-Jui Hsu](https://www.citi.sinica.edu.tw/pages/kjhsu/)
+
+- Last update: 2019/04/02
+
+- Platform: Ubuntu 14.04, [MatConvnet 1.0-beta24](http://www.vlfeat.org/matconvnet/) (We don's support any installation problem of MatConvnet.)
+
 
 ## Demo for all stages: "RunDeepInstCoseg.m"
 + The "mex" files are included.
