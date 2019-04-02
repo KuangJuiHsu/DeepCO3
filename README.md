@@ -9,6 +9,8 @@
 ## Paper: [CVPR19] DeepCO3: Deep Instance Co-segmentation by Co-peak Search and Co-saliency
 ### Authors: [Kuang-Jui Hsu](https://www.citi.sinica.edu.tw/pages/kjhsu/), [Yen-Yu Lin](https://www.citi.sinica.edu.tw/pages/yylin/index_zh.html), [Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/)
 
+<img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Image/CVPR19.PNG" height="400"/>
+
 + PDF: [Link1](http://cvlab.citi.sinica.edu.tw/publications), [Link2](https://www.csie.ntu.edu.tw/~cyy/publications/index.html)
 + Supplementary material: [Link1](http://cvlab.citi.sinica.edu.tw/publications), [Link2](https://www.csie.ntu.edu.tw/~cyy/publications/index.html)
 
