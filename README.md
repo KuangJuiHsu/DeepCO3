@@ -1,4 +1,4 @@
-# Paper: [CVPR19] DeepCO<sup>3</sup>: Deep Instance Co-segmentation by Co-peak Search and Co-saliency
+# [CVPR19] DeepCO<sup>3</sup>: Deep Instance Co-segmentation by Co-peak Search and Co-saliency
 ### Authors: [Kuang-Jui Hsu](https://www.citi.sinica.edu.tw/pages/kjhsu/), [Yen-Yu Lin](https://www.citi.sinica.edu.tw/pages/yylin/index_en.html), [Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/)
 
 <img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Images/CVPR19.PNG" height="400"/>
@@ -21,15 +21,13 @@
 # Codes for DeepCO<sup>3</sup>
 
 - Contact: [Kuang-Jui Hsu](https://www.citi.sinica.edu.tw/pages/kjhsu/)
-
-- Last update: 2019/04/02
-
-- Platform: Ubuntu 14.04, [MatConvnet 1.0-beta24](http://www.vlfeat.org/matconvnet/) (We don's support any installation problem of MatConvnet.)
+- Last update: 2019/04/03
+- Platform: Ubuntu 14.04, [MatConvnet 1.0-beta24](http://www.vlfeat.org/matconvnet/) (Don't support any installation problem of MatConvnet.)
 
 
 ## Demo for all stages: "RunDeepInstCoseg.m"
-+ The "mex" files are included.
-+ The results may be slightly different from the ones in paper because of the randdom seeds.
+- MatConvnet and the corresponding "mex" files are included.
+- The results may be slightly different from the ones in paper because of the randdom seeds.
 
 ## Datasets (about 34 GB):
 - Including the images, ground-truth masks, salinecy maps and object proposals
