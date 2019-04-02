@@ -19,7 +19,7 @@
 @inproceedings{HsuCVPR19,
   author = {Kuang-Jui Hsu and Yen-Yu Lin and Yung-Yu Chuan},
   booktitle = {IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR)},
-  title = {DeepCO$^3$: Deep Instance Co-segmentation by Co-peak Search and Co-saliency},
+  title = {DeepCO$^3$: Deep Instance Co-segmentation by Co-peak Search and Co-saliency Detection},
   year = {2019}
 }
 </code></pre>
