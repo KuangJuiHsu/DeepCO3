@@ -26,14 +26,15 @@
 
 
 ## Demo for all stages: "RunDeepInstCoseg.m"
-- MatConvnet and the corresponding "mex" files are included.
-- The results may be slightly different from the ones in paper because of the randdom seeds.
+- Including the MatConvnet and the corresponding "mex" files
+- May be slightly different from the ones in paper because of the randdom seeds.
 
 ## Datasets (about 34 GB):
 - Including the images, ground-truth masks, salinecy maps and object proposals
 - [GoogleDrive](https://drive.google.com/file/d/1IDyC8NXQdOZEaji6GKQZbh9uZ5B2r_79/view?usp=sharing)
 
 ## Results reported in the papers (about 4 GB):
+- Only including the DeepCO<sup>3</sup> results 
 - [GoogleDrive](https://drive.google.com/file/d/1sMr11hbmc6w3GZAOKy5pbEZxyHBJtb8z/view?usp=sharing)
 
 ## Download Codes from GoogleDrive :
