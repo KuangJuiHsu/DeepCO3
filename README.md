@@ -3,7 +3,7 @@
 
 <img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Images/CVPR19.PNG" height="400"/>
 
-+ PDF (to be updated): [Link1](https://github.com/KuangJuiHsu/DeepCO3), [Link2](https://github.com/KuangJuiHsu/DeepCO3)
++ PDF (to be updated): [High-Resolution](http://cvlab.citi.sinica.edu.tw/images/paper/cvpr-hsu19.pdf), [Low-Resolution](http://cvlab.citi.sinica.edu.tw/images/paper/cvpr-hsu19-lowres.pdf)
 + Supplementary material (to be updated): [Link1](https://github.com/KuangJuiHsu/DeepCO3), [Link2](https://github.com/KuangJuiHsu/DeepCO3)
 
 <p>Please cite our paper if this code is useful for your research.</p>
