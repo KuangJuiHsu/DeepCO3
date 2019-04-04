@@ -4,7 +4,7 @@
 <img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Images/CVPR19.PNG" height="400"/>
 
 + PDF: [High-Resolution](http://cvlab.citi.sinica.edu.tw/images/paper/cvpr-hsu19.pdf), [Low-Resolution](http://cvlab.citi.sinica.edu.tw/images/paper/cvpr-hsu19-lowres.pdf)
-+ Supplementary material (to be updated): [Link1](https://github.com/KuangJuiHsu/DeepCO3), [Link2](https://github.com/KuangJuiHsu/DeepCO3)
++ Supplementary material: [High-Resolution](https://drive.google.com/file/d/1zNB1oydDUMQGLbZie1rJgvHTPjmDnYTC/view?usp=sharing), [Link2](https://drive.google.com/file/d/1aYR88gVmZHedZUK43M49MqZVWQ4z3A8F/view?usp=sharing)
 
 <p>Please cite our paper if this code is useful for your research.</p>
 <pre><code>
@@ -21,7 +21,7 @@
 # Codes for DeepCO<sup>3</sup>
 
 - Contact: [Kuang-Jui Hsu](https://www.citi.sinica.edu.tw/pages/kjhsu/)
-- Last update: 2019/04/03
+- Last update: 2019/04/04
 - Platform: Ubuntu 14.04, [MatConvnet 1.0-beta24](http://www.vlfeat.org/matconvnet/) (Don't support any installation problem of MatConvnet.)
 
 
