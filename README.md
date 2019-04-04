@@ -4,7 +4,7 @@
 <img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Images/CVPR19.PNG" height="400"/>
 
 + PDF: [High-Resolution](http://cvlab.citi.sinica.edu.tw/images/paper/cvpr-hsu19.pdf), [Low-Resolution](http://cvlab.citi.sinica.edu.tw/images/paper/cvpr-hsu19-lowres.pdf)
-+ Supplementary material: [High-Resolution](https://drive.google.com/file/d/1zNB1oydDUMQGLbZie1rJgvHTPjmDnYTC/view?usp=sharing), [Link2](https://drive.google.com/file/d/1aYR88gVmZHedZUK43M49MqZVWQ4z3A8F/view?usp=sharing)
++ Supplementary material: [High-Resolution](https://drive.google.com/file/d/1zNB1oydDUMQGLbZie1rJgvHTPjmDnYTC/view?usp=sharing), [Low-Resolution](https://drive.google.com/file/d/1aYR88gVmZHedZUK43M49MqZVWQ4z3A8F/view?usp=sharing)
 
 <p>Please cite our paper if this code is useful for your research.</p>
 <pre><code>
