@@ -24,13 +24,15 @@ The proposed method contains two stages, co-peak search within the blue-shaded b
 
 ## Results
 + Instance co-segmentation
-The performance of instance co-segmentation on the four collected datasets is provided. The numbers in red and green show the best and the second best results, respectively. The column “trained” indicates whether additional training data are used.
+
+The performance of instance co-segmentation on the four collected datasets is shown. The numbers in red and green show the best and the second best results, respectively. The column “trained” indicates whether additional training data are used.
 <p align="center">
 <img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Image/CVPR19_InstCoSeg.PNG"/>
 </p>
 
 + Object co-localization
-The performance of object co-localization on the four datasets is provided. The numbers in red and green indicate the best and the second best results, respectively. The column “trained” indicates whether additional training data are used.
+
+The performance of object co-localization on the four datasets is shown. The numbers in red and green indicate the best and the second best results, respectively. The column “trained” indicates whether additional training data are used.
 <p align="center">
 <img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Image/CVPR19_ObjCoLoc.PNG"/>
 </p>
