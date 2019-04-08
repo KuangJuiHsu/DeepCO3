@@ -7,7 +7,7 @@ In this paper, we address a new task called instance cosegmentation. Given a set
 ## Examples 
 Two examples of instance co-segmentation on categories bird and sheep, respectively. An instance here refers to an object appearing in an image. In each example, the top row gives the input images while the bottom row shows the instances segmented by our method. The instance-specific coloring indicates that our method produces a segmentation mask for each instance.
 
-<img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Image/CVPR19_Example.PNG" width="400"/>
+<img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Image/CVPR19_Example.PNG" width="800"/>
 
 
 ## Overview of our method
