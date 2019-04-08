@@ -21,7 +21,6 @@ The proposed method contains two stages, co-peak search within the blue-shaded b
 <img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Image/CVPR19_Overview.PNG" height="400"/>
 </p>
 
-
 ## Results
 + Instance co-segmentation
 
@@ -37,8 +36,6 @@ The performance of object co-localization on the four datasets is shown. The num
 <img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Image/CVPR19_ObjCoLoc.PNG"/>
 </p>
 
-
-
 <p>Please cite our paper if this code is useful for your research.</p>
 <pre><code>
 @inproceedings{HsuCVPR19,
@@ -50,16 +47,15 @@ The performance of object co-localization on the four datasets is shown. The num
 </code></pre>
 
 ---
-
 # Codes for DeepCO<sup>3</sup>
 
 - Contact: [Kuang-Jui Hsu](https://www.citi.sinica.edu.tw/pages/kjhsu/)
-- Last update: 2019/04/04
+- Last update: 2019/04/09
 - Platform: Ubuntu 14.04, [MatConvnet 1.0-beta24](http://www.vlfeat.org/matconvnet/) (Don't support any installation problem of MatConvnet.)
 
 
 ## Demo for all stages: "RunDeepInstCoseg.m"
-- Including the MatConvnet and the corresponding "mex" files
+- Including all files of MatConvnet
 - May be slightly different from the ones in paper because of the randdom seeds.
 
 ## Datasets (about 34 GB):
