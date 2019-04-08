@@ -7,13 +7,13 @@ In this paper, we address a new task called instance cosegmentation. Given a set
 ## Examples 
 Two examples of instance co-segmentation on categories bird and sheep, respectively. An instance here refers to an object appearing in an image. In each example, the top row gives the input images while the bottom row shows the instances segmented by our method. The instance-specific coloring indicates that our method produces a segmentation mask for each instance.
 
-<img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Image/CVPR19_Example.PNG" height="400"/>
+<img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Image/CVPR19_Example.PNG" width="400"/>
 
 
 ## Overview of our method
 which contains two stages, co-peak search within the blue-shaded background and instance mask segmentation within the red-shaded background. For searching co-peaks in a pair of images, our model extracts image features, estimates their co-saliency maps, and performs feature correlation for co-peak localization. The model is optimized by three losses, including the co-peak loss \ell_t, the affinity loss \ell_a, and the saliency loss \ell_s. For instance mask segmentation, we design a ranking function taking the detected co-peaks, the co-saliency maps, and the object proposals as inputs, and select the top-ranked proposal for each detected instance.
 
-<img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Image/CVPR19_Approach.PNG" height="400"/>
+<img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Image/CVPR19_Overview.PNG" height="400"/>
 
 + PDF: [High-Resolution](http://cvlab.citi.sinica.edu.tw/images/paper/cvpr-hsu19.pdf), [Low-Resolution](http://cvlab.citi.sinica.edu.tw/images/paper/cvpr-hsu19-lowres.pdf)
 + Supplementary material: [High-Resolution](https://drive.google.com/file/d/1zNB1oydDUMQGLbZie1rJgvHTPjmDnYTC/view?usp=sharing), [Low-Resolution](https://drive.google.com/file/d/1aYR88gVmZHedZUK43M49MqZVWQ4z3A8F/view?usp=sharing)
