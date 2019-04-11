@@ -72,7 +72,7 @@ The performance of object co-localization on the four datasets is shown. The num
 
 ---
 # Errata:
-- Thank Yu-Chun Lo (Howard) for pointint the typo in Eq. (4). The corrected one is listed in the following: 
+- Thank [Howard Yu-Chun Lo](https://github.com/howardyclo/papernotes/issues/51) for pointint the typo in Eq. (4). The corrected one is listed in the following: 
 <p align="center">
 <img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Image/CVPR19_Errata_Eq4.PNG"/>
 </p>
