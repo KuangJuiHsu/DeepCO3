@@ -69,3 +69,10 @@ The performance of object co-localization on the four datasets is shown. The num
 
 ## Download Codes from GoogleDrive :
 - [GoogleDrive](https://drive.google.com/file/d/1NnEVkrrrYyi5oNRKuIlQ6dkdupC5kHbB/view?usp=sharing)
+
+
+# Errata:
+- Thank Yu-Chun Lo (Howard) for pointint the typo in Eq. (4). The corrected one is listed in the following: 
+<p align="center">
+<img src="https://github.com/KuangJuiHsu/DeepCO3/blob/master/Image/CVPR19_Errata_Eq4.PNG"/>
+</p>
